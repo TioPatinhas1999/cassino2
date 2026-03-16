@@ -1,0 +1,15 @@
+{
+  "short_name": "NeonCasino",
+  "name": "Neon Casino - Decentralized Web3 Gaming",
+  "icons": [
+    {
+      "src": "https://cryptologos.cc/logos/ethereum-eth-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#020617",
+  "background_color": "#020617"
+}
